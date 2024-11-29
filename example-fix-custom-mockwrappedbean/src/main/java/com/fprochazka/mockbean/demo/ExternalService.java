@@ -1,4 +1,4 @@
-package com.fprochazka.mockwrappedbean.demo;
+package com.fprochazka.mockbean.demo;
 
 import org.springframework.stereotype.Service;
 

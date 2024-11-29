@@ -1,6 +1,6 @@
-package com.fprochazka.mockwrappedbean.demo;
+package com.fprochazka.mockbean.demo;
 
-import com.fprochazka.mockwrappedbean.testing.BaseTestCase;
+import com.fprochazka.mockbean.testing.BaseTestCase;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 

@@ -1,4 +1,4 @@
-package com.fprochazka.mockwrappedbean.testing.mocking;
+package com.fprochazka.mockbean.testing.mocking;
 
 import org.mockito.Mockito;
 import org.springframework.context.ApplicationContext;

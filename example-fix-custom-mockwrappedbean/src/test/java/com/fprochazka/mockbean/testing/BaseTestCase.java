@@ -1,7 +1,7 @@
-package com.fprochazka.mockwrappedbean.testing;
+package com.fprochazka.mockbean.testing;
 
-import com.fprochazka.mockwrappedbean.demo.DemoApplication;
-import com.fprochazka.mockwrappedbean.testing.mocking.MockWrappedBeanResetTestExecutionListener;
+import com.fprochazka.mockbean.demo.DemoApplication;
+import com.fprochazka.mockbean.testing.mocking.MockWrappedBeanResetTestExecutionListener;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.TestExecutionListeners;
 import org.springframework.test.context.support.DependencyInjectionTestExecutionListener;

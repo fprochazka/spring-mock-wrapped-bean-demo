@@ -1,6 +1,6 @@
-package com.fprochazka.mockwrappedbean.testing;
+package com.fprochazka.mockbean.testing;
 
-import com.fprochazka.mockwrappedbean.testing.mocking.MockWrappedBeanResetBeanProcessor;
+import com.fprochazka.mockbean.testing.mocking.MockWrappedBeanResetBeanProcessor;
 import org.springframework.boot.autoconfigure.AutoConfiguration;
 import org.springframework.context.annotation.Bean;
 

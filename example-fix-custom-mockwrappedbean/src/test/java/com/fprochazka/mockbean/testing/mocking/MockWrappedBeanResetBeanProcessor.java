@@ -1,4 +1,4 @@
-package com.fprochazka.mockwrappedbean.testing.mocking;
+package com.fprochazka.mockbean.testing.mocking;
 
 import org.springframework.beans.factory.ListableBeanFactory;
 import org.springframework.beans.factory.annotation.AnnotatedBeanDefinition;

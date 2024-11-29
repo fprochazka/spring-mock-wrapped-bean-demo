@@ -1,9 +1,9 @@
-package com.fprochazka.mockwrappedbean.testing;
+package com.fprochazka.mockbean.testing;
 
-import com.fprochazka.mockwrappedbean.demo.BarService;
-import com.fprochazka.mockwrappedbean.demo.ExternalService;
-import com.fprochazka.mockwrappedbean.demo.FooService;
-import com.fprochazka.mockwrappedbean.testing.mocking.MockWrappedBean;
+import com.fprochazka.mockbean.demo.BarService;
+import com.fprochazka.mockbean.demo.ExternalService;
+import com.fprochazka.mockbean.demo.FooService;
+import com.fprochazka.mockbean.testing.mocking.MockWrappedBean;
 import org.mockito.AdditionalAnswers;
 import org.mockito.Mockito;
 import org.springframework.boot.autoconfigure.AutoConfiguration;
