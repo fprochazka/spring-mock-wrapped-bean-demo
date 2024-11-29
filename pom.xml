@@ -17,13 +17,14 @@
     <version>0.0.1-SNAPSHOT</version>
 
     <name>mock-bean-demo</name>
-    <description>Demo project for MockBean problem demonstration</description>
+    <description>Demo project for MockBean problem demonstration and fix</description>
 
     <properties>
         <java.version>21</java.version>
     </properties>
 
     <modules>
+        <module>example-problem-demonstration</module>
         <module>example-fix-custom-mockwrappedbean</module>
     </modules>
 
