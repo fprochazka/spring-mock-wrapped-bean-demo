@@ -26,6 +26,7 @@
     <modules>
         <module>example-problem-demonstration</module>
         <module>example-fix-custom-mockwrappedbean</module>
+        <module>example-fix-spybean</module>
     </modules>
 
 </project>
